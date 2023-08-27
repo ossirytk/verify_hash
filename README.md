@@ -6,6 +6,7 @@ Install the package using python pipenv
 >pipenv install
 
 >pipenv run python .\verify_hash.cli.py --help
+
 >pipenv run python .\verify_hash.cli_file.py --help
 
 Build wheel
@@ -13,4 +14,5 @@ Build wheel
 
 After installing the wheel you can run with
 >verify-dir --help
+
 >verify-file --help
