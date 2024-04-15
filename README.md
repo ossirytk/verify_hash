@@ -1,3 +1,4 @@
+# !!This repository is no longer being maintained!!
 # verify_hash
 Python script for verifying file hashes
 Install the package using python pipenv
